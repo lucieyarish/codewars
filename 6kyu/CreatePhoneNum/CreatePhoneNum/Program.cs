@@ -15,7 +15,10 @@ namespace CreatePhoneNum
         {
             string joinedString = String.Join(String.Empty, numbers);
             string phoneNumber = String.Format("{0:(###) ###-####}", Convert.ToInt64(joinedString));
-
+            if(phoneNumber.Length < 14)
+            {
+                phoneNumber = String.Format("{0:(0##) ###-####}", Convert.ToInt64(joinedString));
+            }
             return phoneNumber;
         }
     }
