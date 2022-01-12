@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonNums", "CommonNums\CommonNums.csproj", "{486EB1AB-4C9D-44E8-9C91-869140A55EC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{9031E4DE-EEEB-4296-8F8F-07EF7E35997F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{486EB1AB-4C9D-44E8-9C91-869140A55EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486EB1AB-4C9D-44E8-9C91-869140A55EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486EB1AB-4C9D-44E8-9C91-869140A55EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486EB1AB-4C9D-44E8-9C91-869140A55EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9031E4DE-EEEB-4296-8F8F-07EF7E35997F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9031E4DE-EEEB-4296-8F8F-07EF7E35997F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9031E4DE-EEEB-4296-8F8F-07EF7E35997F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9031E4DE-EEEB-4296-8F8F-07EF7E35997F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
