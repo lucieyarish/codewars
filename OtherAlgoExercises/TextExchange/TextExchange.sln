@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextExchangeTest", "TextExchangeTest\TextExchangeTest.csproj", "{7EB5041B-6574-415B-8A0C-ACFC4335F6F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextExchangeAlgo", "TextExchangeAlgo\TextExchangeAlgo.csproj", "{D40B5A37-7F07-4745-B3AE-4E23382965A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB5041B-6574-415B-8A0C-ACFC4335F6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB5041B-6574-415B-8A0C-ACFC4335F6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB5041B-6574-415B-8A0C-ACFC4335F6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB5041B-6574-415B-8A0C-ACFC4335F6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40B5A37-7F07-4745-B3AE-4E23382965A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40B5A37-7F07-4745-B3AE-4E23382965A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40B5A37-7F07-4745-B3AE-4E23382965A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40B5A37-7F07-4745-B3AE-4E23382965A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
