@@ -40,6 +40,9 @@ namespace ArrayDiff
             }
 
             return diffNums.ToArray();
+            
+            //LINQ solution
+            //return arr1.Where(n => !arr2.Contains(n)).ToArray();
         }
     }
 }
