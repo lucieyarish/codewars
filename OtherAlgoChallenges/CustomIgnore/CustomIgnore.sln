@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomIgnore", "CustomIgnore\CustomIgnore.csproj", "{51B3CCCA-6C8D-4A8E-B426-044343ED56A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomIgnoreTest", "CustomIgnoreTest\CustomIgnoreTest.csproj", "{F33473DC-0707-4002-BD27-D2831CA58403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51B3CCCA-6C8D-4A8E-B426-044343ED56A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B3CCCA-6C8D-4A8E-B426-044343ED56A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B3CCCA-6C8D-4A8E-B426-044343ED56A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B3CCCA-6C8D-4A8E-B426-044343ED56A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F33473DC-0707-4002-BD27-D2831CA58403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33473DC-0707-4002-BD27-D2831CA58403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33473DC-0707-4002-BD27-D2831CA58403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33473DC-0707-4002-BD27-D2831CA58403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
